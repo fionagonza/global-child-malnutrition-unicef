@@ -52,3 +52,12 @@ Interact with the filters and hover to explore patterns visually.
 
 
 ## Project Structure
+
+├── data/
+│   └── malnutrition_clean.csv
+├── notebooks/
+│   └── unicef_child_malnutrition_analysis.ipynb
+├── sql/
+│   └── unicef_child_malnutrition_analysis.sql
+└── README.md
+
