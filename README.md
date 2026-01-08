@@ -39,7 +39,16 @@ This project focuses on **stunting** as the primary indicator of chronic malnutr
 - Some countries are excluded from geographic visualizations due to missing mapping data
 
 ## Tableau Dashboard
+
 🔗 **Live Dashboard:**  
-PASTE YOUR TABLEAU PUBLIC LINK HERE
+https://public.tableau.com/app/profile/fiona.anguche4342/viz/GlobalChildMalnutritionOverviewUNICEF/GlobalChildMalnutritionUNICEF?publish=yes
+
+The dashboard visualizes:
+- Global stunting prevalence by country (map)
+- Average stunting trend over time (line chart)
+- Stunting comparison by income group (bar chart)
+
+Interact with the filters and hover to explore patterns visually.
+
 
 ## Project Structure
