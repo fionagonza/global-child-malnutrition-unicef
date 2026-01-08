@@ -33,7 +33,7 @@ This project focuses on **stunting** as the primary indicator of chronic malnutr
 5. Built an interactive Tableau dashboard to communicate insights
 
 ## Key Insights
-- Global child stunting levels have declined over time but remain uneven across regions
+- Global child stunting levels have declined over time, but remain uneven across regions
 - Stunting is present across all income groups, including high-income countries
 - Comparing income groups using the most recent year provides the most policy-relevant insights
 - Some countries are excluded from geographic visualizations due to missing mapping data
